@@ -32,7 +32,7 @@ export const skills = {
   ],
   cloudPlatforms: [
     { name: "AWS", level: 85, years: 5 },
-    // { name: "Google Cloud", level: 80, years: 4 },
+    { name: "MongoDBS", level: 80, years: 4 },
     // { name: "Azure", level: 70, years: 3 },
     // { name: "Docker", level: 82, years: 4 },
     // { name: "Kubernetes", level: 75, years: 3 }
