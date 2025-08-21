@@ -68,12 +68,12 @@ export const experience = [
     position: "Digital Marketing Exicutive",
     duration: "2024 - 2025",
     location: "Coimbatore, Tamil Nadu",
-    description: "Designed and implemented end-to-end ML pipelines for real-time recommendation systems serving 10M+ users. Specialized in deep learning and distributed computing architectures.",
+    description: "As a Digital Marketing Executive at Regalo Pack, I was responsible for planning, executing, and optimizing online marketing strategies to enhance brand presence and drive customer engagement. My role involved managing SEO, social media campaigns, and paid advertisements (Instagram Ads, Facebook Ads, Google Ads), while collaborating with the web development team to ensure a strong digital footprint.",
     achievements: [
-      "Built recommendation engine increasing user engagement by 34%",
-      "Implemented real-time feature engineering pipeline",
-      "Reduced model inference latency by 60%",
-      "Published 3 research papers on distributed ML systems"
+      "Increased website traffic by 40% through targeted SEO strategies.",
+      "Successfully executed Instagram and Facebook ad campaigns, achieving a 25% boost in lead conversions.",
+      "Implemented data-driven ad strategies, reducing customer acquisition cost by 15%.",
+      "Developed and managed content calendars for social media platforms, improving engagement rates."
     ],
     technologies: ["SEO", "Instagram Adds", "Facebook Adds", "Web Development"]
   },
