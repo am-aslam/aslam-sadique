@@ -19,8 +19,8 @@ export const skills = {
     { name: "R", level: 85, years: 6 },
     { name: "SQL", level: 90, years: 7 },
     { name: "JavaScript", level: 75, years: 4 },
-    { name: "Java", level: 70, years: 3 },
-    { name: "Scala", level: 65, years: 2 }
+    { name: "React Native", level: 70, years: 3 },
+    { name: "React js", level: 65, years: 2 }
   ],
   mlFrameworks: [
     { name: "TensorFlow", level: 90, years: 5 },
